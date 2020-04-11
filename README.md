@@ -9,4 +9,4 @@ Follow the instructions in **Particle_identification.ipynb** notebook.
 
 To pass the task, you need to get log loss equal **0.6 or less**. 0.525 is 100%.
 
-Data files you will find here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_2
+Data files used can be found here http://www.mediafire.com/folder/pc8x2gxcwp39445,5zyp8dgiszfas0l,kqy4fu7hh4t9881/shared
